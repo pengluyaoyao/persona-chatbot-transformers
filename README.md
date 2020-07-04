@@ -1,6 +1,6 @@
 # persona-chatbot-transformers
 
-This is following the  tutorials of https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
+This is following the  tutorials of https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313 with some of the code revised (train and evaluate function).
 
 Also tried gpt2, but still need to fine-tune further.
 
